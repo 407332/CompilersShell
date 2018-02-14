@@ -1,0 +1,9 @@
+build/
+.idea/
+.idea/Base.iml
+.idea/.name
+.idea/codeStyles/Project.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
