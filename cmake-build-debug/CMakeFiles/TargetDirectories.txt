@@ -1,3 +1,0 @@
-/cygdrive/d/HBO-ICT/Compilers en Operating Systems/CompilersShell/cmake-build-debug/CMakeFiles/edit_cache.dir
-/cygdrive/d/HBO-ICT/Compilers en Operating Systems/CompilersShell/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/cygdrive/d/HBO-ICT/Compilers en Operating Systems/CompilersShell/cmake-build-debug/CMakeFiles/shell.dir
