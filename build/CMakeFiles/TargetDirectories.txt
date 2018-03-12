@@ -1,0 +1,3 @@
+/mnt/d/HBO-ICT/Compilers en Operating Systems/CompilersShell/build/CMakeFiles/edit_cache.dir
+/mnt/d/HBO-ICT/Compilers en Operating Systems/CompilersShell/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/HBO-ICT/Compilers en Operating Systems/CompilersShell/build/CMakeFiles/shell.dir
